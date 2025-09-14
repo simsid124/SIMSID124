@@ -13,9 +13,6 @@
 
 - ⚡ Fun fact **I chase knowledge the way cats chase light beams.**
 
-<h3 align="left">My Github Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=simsid124&margin-w=15&margin-h=15" alt="simsid124" /> </a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/simar_sidhu124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simar_sidhu124" height="30" width="40" /></a>
@@ -325,6 +322,11 @@
       height="40"
     />
   </a>&nbsp;&nbsp;&nbsp;
+</p>
+
+<h3 align="left">My Github Trophies:</h3>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=simsid124&margin-w=15&margin-h=15" alt="simsid124" /></a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simsid124&show_icons=true&locale=en&layout=compact" alt="simsid124" /></p>
